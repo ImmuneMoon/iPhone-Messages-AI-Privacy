@@ -3,7 +3,6 @@
 ![iPhone](https://img.shields.io/badge/iPhone-iOS%2026%20%7C%2027-000000?logo=apple&logoColor=white)
 ![Type: privacy guide](https://img.shields.io/badge/Type-privacy%20guide-d73a49)
 ![Covers: Siri, ChatGPT, iCloud](https://img.shields.io/badge/Covers-Siri%20%7C%20ChatGPT%20%7C%20iCloud-5c2d91)
-![Checked November 2026](https://img.shields.io/badge/Checked-Nov%202026-2ea44f)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey)](LICENSE)
 
 **📄 [Download the PDF](iPhone-Messages-AI-Privacy.pdf)**
