@@ -28,8 +28,6 @@ Texting people with Android phones? See [Gemini and Your Android Messages](https
 
 <!-- guide:start -->
 
-*Checked against Apple's documentation in November 2026. This guide isn't based on a video.*
-
 ## The Short Version
 
 - **ChatGPT:** it's off by default. If you turned it on, switch it off under **Settings** ▸ **Siri** (or **Apple Intelligence & Siri**) ▸ **ChatGPT** (Section 2).
@@ -179,8 +177,6 @@ RCS on iPhone needs **iOS 18** and a carrier plan that supports it.
 ---
 
 ## 8. Sources
-
-Checked in November 2026.
 
 **Apple Intelligence and ChatGPT**
 - [Apple Privacy](https://www.apple.com/privacy/)
